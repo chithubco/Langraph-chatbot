@@ -1,0 +1,24 @@
+[project]
+name = "agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "arxiv>=2.2.0",
+    "bs4>=0.0.2",
+    "faiss-cpu>=1.12.0",
+    "langchain[anthropic]>=0.3.27",
+    "langchain-community>=0.3.29",
+    "langchain-core>=0.3.75",
+    "langchain-groq>=0.3.7",
+    "langchain-huggingface>=0.3.1",
+    "langchain-openai>=0.3.32",
+    "langgraph>=0.6.6",
+    "lxml>=6.0.1",
+    "pymupdf>=1.26.4",
+    "pypdf>=6.0.0",
+    "python-dotenv>=1.1.1",
+    "wikipedia>=1.4.0",
+    "pydantic>=2.11.7",
+]
