@@ -16,3 +16,4 @@ faiss-cpu
 langgraph
 langchain[anthropic]
 pydantic
+langgraph-cli[inmem]
